@@ -14,7 +14,7 @@ def link
 end
 
 def all_phrases
-  puts phrase
-  puts status
-  puts dangerous
+  mario
+  toadstool
+  link
 end
